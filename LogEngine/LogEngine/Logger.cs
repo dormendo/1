@@ -3,7 +3,7 @@
 namespace LogEngine
 {
     /// <summary>
-    /// Обеспечивает работу с журналами
+    /// Обеспечивает работу с журналами. Изменение 3
     /// </summary>
     public static class Logger
     {
