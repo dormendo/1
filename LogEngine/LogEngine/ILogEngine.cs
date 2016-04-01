@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// Сделано в master
 namespace LogEngine
 {
     internal interface ILogEngine : IDisposable
