@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace LogEngine
 {
+    /// <summary>
+    /// Изменение 2
+    /// </summary>
     internal interface ILogEngineProvider
     {
         //ILogEngine GetLogEngine(
